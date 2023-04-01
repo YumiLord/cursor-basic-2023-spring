@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(64, 61, 61);
+    font-family: "Roboto";
+    color:azure;
+}
+.table1{
+    
+    width: 600px;
+    margin: auto ;
+    margin-top: 50px;
+    border: 2px solid;
+    border-collapse: collapse;
+}
+.table11{
+    
+    text-align: left;
+    border-bottom: 2px solid;
+    
+}
+.table12{
+    
+    text-align: left;
+    border-bottom: 2px solid;
+}
+.table13{
+    border-bottom: 2px solid;  
+}
+
+.container{
+    position: absolute;
+  margin-left: -120px;
+  margin-top: -9.5px;
+   
+}
+
+.gif{
+    width: 15px;
+    height: 15px;
+}
+.png{
+    width: 15px;
+    height: 15px;
+    margin-top: 2px;
+}
+.rt{
+    width: 15px;
+    height: 15px; 
+}
+.table121{
+    text-align: left;
+    border-bottom: 2px solid; 
+}
+.table131{
+
+    border-bottom: 2px solid;  
+}
